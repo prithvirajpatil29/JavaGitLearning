@@ -57,3 +57,39 @@
 10. What is the purpose of the sleep() method in Java?
 11. Difference between wait() and sleep() in Java?
 12. Difference between notify() and notifyAll() in Java?
+
+Important Topic for DBMS
+ - Advantage of DBMS
+ - All type of Keys
+ - Normalization
+ - SQL queries
+ - Relational Algebra
+ - Joins
+ - Trigger, cursor, view
+ - Dirty read problem
+ - Conflict serializable vs View serializable.
+ - ACID properties.
+ - Indexing | Indexing methods
+
+
+ Important Topic for OOP
+ - Class and Objects.
+ - Feature/characteristics of OOPs.
+ - Compile time and Runtime polymorphism.
+ - Variable scopes.
+ - static (variables, Functions, Objects).
+ - Inheritance (Type and Mode)
+ - Virtual (Functions and Class)
+ - Abstract class and Interface.
+ - Friend function and Friend class.
+ - Call by value, reference.
+ - This pointer
+ - Abstraction
+ - Exception Handling
+ - Constructor and Destructor.
+ - Copy constructor
+ - copy assignment operator
+ - References variable
+ - Const (variable, Function, Argument)
+ - Overloading (Function, Constructor, Operator)
+ - Function overriding and Inline function.
