@@ -94,5 +94,4 @@ Important Topic for DBMS
  - Overloading (Function, Constructor, Operator)
  - Function overriding and Inline function.
 
- - ![Screenshot 2024-05-01 112735](https://github.com/user-attachments/assets/ca148965-b332-47af-8949-2f4fe003659b)
 
